@@ -1,5 +1,10 @@
 This project aims to create a web page to convert the live audio speech to a written text. 
-### Used languages: HTML, CSS, JavaScript. 
+### Used languages: 
+![](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/24/Other-html-5-icon.png) HTML 
+
+![](https://icons.iconarchive.com/icons/martz90/hex/24/css-3-icon.png) CSS 
+
+![](https://icons.iconarchive.com/icons/untergunter/leaf-mimes/24/text-x-javascript-icon.png) JavaScript 
 
 ```
 <html dir="rtl" lang="ar">
