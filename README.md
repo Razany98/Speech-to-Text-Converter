@@ -1,6 +1,7 @@
 This project aims to create a web page to convert the live audio speech to a written text. 
 ### Used languages: HTML, CSS, JavaScript. 
 
+```
 <html dir="rtl" lang="ar">
   <head> 
   <title> Spech to Text Converter </title>
@@ -199,3 +200,4 @@ button{
     </style>
   </body>
 </html>
+```
